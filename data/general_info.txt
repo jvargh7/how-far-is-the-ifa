@@ -1,0 +1,6 @@
+This folder contains all the datasets which are required to reproduce the paper.
+
+The data has been anonymised in the following ways:
+1- All personal identifiers have been removed retaining basic demographics (age, gender, caste, religion etc.)
+2- All village identifiers have been removed 
+3- All coordinates have been shifted randomly by 5km
