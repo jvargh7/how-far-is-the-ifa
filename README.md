@@ -3,7 +3,7 @@ Demand and supply factors of iron-folic acid supplementation and its association
 Jithin Sam Varghese, Sumathi Swaminathan, Anura Kurpad, Tinku Thomas
 
 Journal: PLOS One  
-Link: https://doi.org/10.1371/journal.pone.0210634
+Link: https://doi.org/10.1371/journal.pone.0210634  
 Submitted: April 2018  
 Review 1: July 2018  
 Review 2: August 2018 (+Figure copyright transfer)  
